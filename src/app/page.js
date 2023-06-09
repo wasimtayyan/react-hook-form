@@ -18,7 +18,7 @@ export default function Home() {
         <div className="w-8/12 bg-white mx-auto shadow-lg overflow-hidden">
           <div className="py-16 px-12">
             <div className="flex gap-6">
-              <h2 className="text-3xl mb-4">SingUp</h2>
+              <h2 className="text-3xl mb-4">SignUp</h2>
               <span className="text-3xl">/</span>
               <Link href="/welcom" className="text-3xl mb-4">Login</Link>
             </div>
