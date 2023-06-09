@@ -24,7 +24,7 @@ export default function Home() {
           <div className="py-16 px-12">
             <div className="flex gap-6">
               <Link href=".." className="text-3xl mb-4">
-                SingUp
+                SignUp
               </Link>
               <span className="text-3xl">/</span>
               <Link href="/welcom" className="text-3xl mb-4">
